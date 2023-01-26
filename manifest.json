@@ -1,0 +1,21 @@
+{
+  "name":"Chatty",
+  "shot_name":"My app",
+  "start_url":".",
+  "background-color":"#ab3",
+  "theme_color":"#00ef",
+  "display":"standalone",
+  "icons":[
+      {
+        "src":"./chatty.png",
+        "sizes":"64x64",
+        "type":"image/png"
+      },
+      {
+        "src":"./chatty.png",
+        "sizes":"512x512",
+        "type":"image/png"
+      }
+  ]
+
+}
